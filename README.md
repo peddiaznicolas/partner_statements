@@ -1,6 +1,6 @@
 ﻿# Partner Statements 
 
-## Complete migration to OWL framework
+## 
 
 ## Key Features
 - Customizable aging brackets
@@ -22,5 +22,6 @@
 - Interactive dashboard vs static reports
 - Customizable aging vs fixed periods
 - Premium UX with Bootstrap 5
+
 
 
